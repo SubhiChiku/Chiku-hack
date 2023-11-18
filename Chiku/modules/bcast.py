@@ -1,9 +1,9 @@
 from pyrogram import filters
 from config import Config
 
-from Rudra import app
-from Rudra.Helpers.mongo import get_served_chats
-from Rudra.Helpers.mongo import get_served_users
+from Chiku import app
+from Chiku.Helpers.mongo import get_served_chats
+from Chiku.Helpers.mongo import get_served_users
 
 IS_BROADCASTING = False
 SUDOERS = Config.SUDOERS
