@@ -1,9 +1,9 @@
 from pyrogram import filters
 
 class Config:
-    API_ID = "29626514"
-    API_HASH = "9460c8987ee9df06dd8fe22412d689ab"
-    TOKEN = "6840651563:AAFXRwpgl3gk65QhsQXF49QZ0cHtbdylJeg"
+    API_ID = "21189715"
+    API_HASH = "988a9111105fd2f0c5e21c2c2449edfd"
+    TOKEN = "7042026651:AAHVnOLS5acWUle4_HX-Jf_90h8XbPgZgds"
     MONGO_URL = "mongodb+srv://dostuahi:WeQKx8yemN268htW@cluster0.6fstll3.mongodb.net/?retryWrites=true&w=majority"
     START_PIC = "https://telegra.ph/file/3464fb495af70bebb11fa.jpg"
-    SUDOERS = filters.user(["6322247029"])
+    SUDOERS = filters.user(["7195465415"])
